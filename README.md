@@ -1,34 +1,33 @@
-# [Project Name] 🎯
+# Derbeste 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Derbeste
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Swathika S. - Government College of Engineering, Kannur
+- Member 2: Dhanupriya - Government College of Engineering, Kannur
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+http://127.0.0.1:5500/index3.html
 
 ### Project Description
-[2-3 lines about what your project does]
+This website lets you craft your own chilling horror, thrilling crime, heartwarming romance, or suspenseful mafia drama, turning your boredom into an exciting adventure.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Many people experience boredom and struggle to find engaging, creative ways to pass the time. While there are various entertainment options available, there is a lack of platforms that enable users to craft and immerse themselves in their own personalized, thrilling, chilling, or heartwarming stories across diverse genres.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+This website provides an interactive platform where users can create and share their own unique stories in genres like horror, crime, romance, and mafia drama. By allowing users to craft their own narratives, the website transforms their free time into an exciting and immersive storytelling experience.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+-html, css, javascript
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
+- VS Code, Chatgpt, deep AI
 
 For Hardware:
 - [List main components]
@@ -91,9 +90,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Swathika S.: Backend developer.
+- Dhanupriya K.: Frontend developer.
 
 ---
 Made with ❤️ at TinkerHub
